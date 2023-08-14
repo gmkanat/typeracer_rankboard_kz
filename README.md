@@ -2,6 +2,11 @@
 
 #### I am on #7
 
+Some Facts:
+1. I climbed from **21st** place to **7th**.
+2. I have the **second-highest** Certified WPM (139.45).
+3. I am in the **top 0.7%** in the world.
+
 
 |#  |Name       |Handle                 |Recent Average WPM|Best Game WPM|Certified WPM|
 |---|-----------|-----------------------|------------------|-------------|-------------|
