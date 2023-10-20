@@ -5,7 +5,11 @@
 Some Facts:
 1. I climbed from **7th** place to **4th**.
 2. I have the **second-highest** Certified WPM (139.45).
-3. I am in the **top 0.6%** in the world.
+Recently set new record 159 wpm
+![image](https://github.com/gmkanat/typeracer_rankboard_kz/assets/43415288/9bb7c6f3-ccf7-492b-b0f4-6d4ea4d46715)
+
+4. I am in the **top 0.6%** in the world.
+
 
 | #  | Name        | Handle                | Recent Average WPM | Best Game WPM | Certified WPM |
 |----|-------------|-----------------------|--------------------|---------------|---------------|
